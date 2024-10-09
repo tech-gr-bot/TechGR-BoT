@@ -7,7 +7,7 @@
  
  <p align="center">  
   <a href="">
-    <img alt="TECH-GR" width="600" height="350" src="https://i.imgur.com/Xq6VFqv.jpeg">
+    <img alt="TECH-GR" width="600" height="350" src="https://i.imgur.com/UGiaFlR.jpeg">
   </a>
 </p>
 
