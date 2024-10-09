@@ -1,5 +1,5 @@
   
-![PRINXE-MD](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+PRINCE+MD+💙)
+![TECH-GR](https://readme-typing-svg.demolab.com?font=Garamond&size=20&pause=998&color=skyblue&background=white&right=true&random=true&width=465&lines=HELLO+EVERYONE👋🏻;WELCOME+TO+TECH+GR+💙)
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -7,14 +7,14 @@
  
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/Xq6VFqv.jpeg">
+    <img alt="TECH-GR" width="600" height="350" src="https://i.imgur.com/Xq6VFqv.jpeg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/PRINXE-MD"><img title="Author" src="https://img.shields.io/badge/𝑷𝑹𝑰𝑵𝑪𝑬 𝑴𝑫 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRINCE-GDS/PRINXE-MD"><img title="Author" src="https://img.shields.io/badge/TECH GR 𝑩𝑶𝑻-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
